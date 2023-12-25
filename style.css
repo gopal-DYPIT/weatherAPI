@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: url(./white-cloud-blue-sky.jpg);
+    background-image: url(./weather.jpg);
   min-height: 100vh;
   display: flex;
   justify-content: center;
